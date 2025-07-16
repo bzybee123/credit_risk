@@ -50,7 +50,8 @@ All data is pulled directly from a **MySQL database**, processed using **pandas*
 
 ## 📷 Dashboard Preview
 
-![credit-risk-dashboard](preview.png) <!-- Add a screenshot named preview.png -->
+![credit-risk-dashboard](preview1.png) <!-- Add a screenshot named preview.png -->
+![credit-risk-dashboard](preview2.png) <!-- Add a screenshot named preview.png -->
 
 ---
 
